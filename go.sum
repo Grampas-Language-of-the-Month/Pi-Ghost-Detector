@@ -1,5 +1,9 @@
 github.com/Low-Level-Devils/HC-SR501-Module_GoLang v0.0.0-20260303015200-b94527c11668 h1:y6PdLOxPj65KY4JzNmpdkd1Ze4+J6Xf0ju4p2jddIVg=
 github.com/Low-Level-Devils/HC-SR501-Module_GoLang v0.0.0-20260303015200-b94527c11668/go.mod h1:fn/GyuuAJGZz+RFNkX02U9a0D36OuQraVo2ikuQ3K0M=
+github.com/Low-Level-Devils/HC-SR501-Module_GoLang v0.0.0-20260305032145-4c8c632993a3 h1:eSzyoCFhgDyDFv2LXi6s6B/jkfHuFYazUIDNq1sH1Ns=
+github.com/Low-Level-Devils/HC-SR501-Module_GoLang v0.0.0-20260305032145-4c8c632993a3/go.mod h1:fn/GyuuAJGZz+RFNkX02U9a0D36OuQraVo2ikuQ3K0M=
+github.com/Low-Level-Devils/HC-SR501-Module_GoLang v0.0.0-20260305033138-29f7feb65b0f h1:abPVll16NjKrdVmOwMp3EJ3JSqZq5rz3PtVX5PetB9w=
+github.com/Low-Level-Devils/HC-SR501-Module_GoLang v0.0.0-20260305033138-29f7feb65b0f/go.mod h1:fn/GyuuAJGZz+RFNkX02U9a0D36OuQraVo2ikuQ3K0M=
 github.com/fatih/color v1.18.0 h1:S8gINlzdQ840/4pfAwic/ZE0djQEH3wM94VfqLTZcOM=
 github.com/fatih/color v1.18.0/go.mod h1:4FelSpRwEGDpQ12mAdzqdOukCy4u8WUtOY6lkT/6HfU=
 github.com/jonboulle/clockwork v0.4.0 h1:p4Cf1aMWXnXAUh8lVfewRBx1zaTSYKrKMF2g3ST4RZ4=

@@ -3,7 +3,7 @@ module pi-ghost-hunter
 go 1.25.0
 
 require (
-	github.com/Low-Level-Devils/HC-SR501-Module_GoLang v0.0.0-20260303015200-b94527c11668
+	github.com/Low-Level-Devils/HC-SR501-Module_GoLang v0.0.0-20260305033138-29f7feb65b0f
 	github.com/fatih/color v1.18.0
 )
 
@@ -14,3 +14,5 @@ require (
 	periph.io/x/conn/v3 v3.7.2 // indirect
 	periph.io/x/host/v3 v3.8.5 // indirect
 )
+
+replace github.com/Low-Level-Devils/HC-SR501-Module_GoLang => ../HC-SR501-Module_GoLang
